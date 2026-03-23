@@ -46,7 +46,7 @@ flowchart LR
 ## 🖥️ Environment
 
 - Virtualization: Hyper-V
-- OS: Ubuntu
+- OS: Ubuntu-24.04.1
 - Deployment Type: 2-node manual build lab
 ### Controller Node
 - Keystone
