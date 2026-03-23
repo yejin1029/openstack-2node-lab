@@ -166,6 +166,20 @@ Heat 설치 후 controller 메모리 부족으로 Percona/MySQL이 반복적으�
 - Filesystem creation and mount
 - Heat template validation / basic stack creation
 
+### Screenshot
+- Instance and Network
+<img width="704" height="153" alt="image" src="https://github.com/user-attachments/assets/f9f0b9fb-65b8-48af-bbd8-3e07546eaaf5" />
+
+- Neutron Network Structure
+<img width="693" height="190" alt="image" src="https://github.com/user-attachments/assets/00b6b378-9ed3-49ae-863d-4bdc3666c77d" />
+
+- Volumue Attachment
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/64c2e25f-0bd2-4ad9-b751-69f1b9787c25" />
+
+- Inside the Instance
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fb6d86b6-e3e7-4e2d-8ccc-c80086783814" />
+
+
 ---
 
 ## 📚 Lessons Learned
