@@ -222,15 +222,6 @@ Heat 설치 후 controller 메모리 부족으로 Percona/MySQL이 반복적으�
 
 ---
 
-## 🚀 Future Work
-- Volume snapshot test
-- Boot from volume
-- Volume detach / delete workflow verification
-- Heat template refinement
-- Architecture diagram improvement
-
----
-
 ## 🔒 Notes
 
 - 이 저장소는 학습 및 실습 목적의 공개용 정리본입니다.
