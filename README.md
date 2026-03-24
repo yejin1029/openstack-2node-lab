@@ -170,11 +170,35 @@ Heat 설치 후 controller 메모리 부족으로 Percona/MySQL이 반복적으�
 - Instance and Network
 <img width="704" height="153" alt="image" src="https://github.com/user-attachments/assets/f9f0b9fb-65b8-48af-bbd8-3e07546eaaf5" />
 
+<details>
+    <summary>Horizon</summary>
+        <img width="1277" height="341" alt="image" src="https://github.com/user-attachments/assets/cf67dfec-0ac1-41d6-b52a-ea2c0d2876a5" />
+        <img width="1279" height="343" alt="image" src="https://github.com/user-attachments/assets/b35c909b-a56f-474a-bf4b-b4fc019997fd" />
+</details>
+
+<br/>
+
 - Neutron Network Structure
 <img width="693" height="190" alt="image" src="https://github.com/user-attachments/assets/00b6b378-9ed3-49ae-863d-4bdc3666c77d" />
 
+<details>
+    <summary>Horizon</summary>
+        <img width="1279" height="332" alt="image" src="https://github.com/user-attachments/assets/1346f0c2-13a4-47ff-b3a7-7cc0b27a68f9" />
+        <img width="1278" height="337" alt="image" src="https://github.com/user-attachments/assets/3458f6d4-241d-4a6e-a510-8bd52ca0f90b" />
+</details>
+
+<br/>
+
 - Volumue Attachment
 <img width="693" alt="image" src="https://github.com/user-attachments/assets/64c2e25f-0bd2-4ad9-b751-69f1b9787c25" />
+
+<details>
+    <summary>Horizon</summary>
+        <img width="1280" height="339" alt="image" src="https://github.com/user-attachments/assets/6e8ee33d-2603-4c71-adb2-37f63e6f7eaa" />
+
+</details>
+
+<br/>
 
 - Inside the Instance
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fb6d86b6-e3e7-4e2d-8ccc-c80086783814" />
